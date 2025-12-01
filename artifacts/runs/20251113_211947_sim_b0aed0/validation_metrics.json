@@ -1,0 +1,8 @@
+{
+  "validator": "pdf",
+  "ks_statistic": 0.717156906077348,
+  "ks_p_value": 5.317040884972039e-174,
+  "n_sim": 5000,
+  "max_gens": 20,
+  "timestamp": "2025-11-13T21:19:50Z"
+}

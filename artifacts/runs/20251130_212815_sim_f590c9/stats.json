@@ -1,0 +1,9 @@
+{
+  "finished": "2025-11-30T21:28:15Z",
+  "B_shape": [
+    582,
+    582
+  ],
+  "topk_rows": 582,
+  "method": "LSTM+Attention (pretrained)"
+}

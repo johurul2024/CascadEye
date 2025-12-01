@@ -1,0 +1,29 @@
+{
+  "session": "ses_205af12e",
+  "created": "2025-11-13T19:57:47Z",
+  "dataset": {
+    "path": "artifacts\\synthetic_feeder.csv",
+    "cascades": 500,
+    "gens_max": 19,
+    "lines": 522,
+    "hash": "547e9097be7b66b05fa1c53841eca224396d2234"
+  },
+  "model": {
+    "hp": {
+      "n_lines": null,
+      "hidden": 64,
+      "heads": 2
+    },
+    "file": {
+      "path": "D:\\001_SDSU\\001_COURSE\\Fall 25\\Machine Learning System Design\\Course Project\\Final Demo\\DEMO\\lstm_attn.pth",
+      "size_mb": 0.845,
+      "mtime": "2025-11-13 13:55",
+      "sha1": "c682815ef56979c36465c648fca97be64fe1a392"
+    }
+  },
+  "params": {
+    "method": "LSTM+Attention (pretrained)",
+    "hidden": 64,
+    "heads": 2
+  }
+}

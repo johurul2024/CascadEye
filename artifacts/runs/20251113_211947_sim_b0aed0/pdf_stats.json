@@ -1,0 +1,9 @@
+{
+  "validator": "pdf",
+  "n_sim": 5000,
+  "max_gens": 20,
+  "xlim": [
+    1.0,
+    80.0
+  ]
+}
