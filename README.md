@@ -17,7 +17,7 @@ The tool is implemented as an offline Tkinter desktop app, with a pretrained LST
 
 ## Project structure
 
-- `src/cascadeye/` – app + pipeline code (Tkinter UI, data pipeline, utilities)  
+- `src/cascadeye/` – app + pipeline code (Tkinter UI, data pipeline)  
 - `models/` – pretrained model checkpoints (`.pth`) and small metrics files  
 - `data/` – small demo outage CSVs (original + synthetic variants)  
 - `artifacts/` – per-run outputs (logs, B matrices, Top-k tables, stats)  
