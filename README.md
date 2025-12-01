@@ -1,7 +1,5 @@
 # CascadEye
 
-© 2025 Syed Abdullah-Al Nahid, Mohammad Johurul Islam, and Yingman Bian. All rights reserved.
-
 CSC792 – Machine Learning System Design  
 Department of Electrical Engineering and Computer Science  
 South Dakota State University, USA  
