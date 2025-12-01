@@ -1,7 +1,13 @@
 # CascadEye
 
+© 2025 Syed Abdullah-Al Nahid, Mohammad Johurul Islam, and Yingman Bian. All rights reserved.
+
 CSC792 – Machine Learning System Design  
-South Dakota State University  
+Department of Electrical Engineering and Computer Science  
+South Dakota State University, USA  
+
+**Team:** Syed Abdullah-Al Nahid, Mohammad Johurul Islam, Yingman Bian  
+**Course Instructor:** Prof. Chulwoo Pack
 
 CascadEye is a lightweight desktop ML system for cascading-failure risk analysis in power grids.  
 It turns historical outage records into:
@@ -35,3 +41,5 @@ Tested with:
 - `matplotlib`  
 - `torch`  
 - `tkinter`
+
+**Note:** When you download the report, keep `cascadeye.ipynb` or `cascadeye.html` and the `figures/` folder in the **same directory**; otherwise the images will not display correctly.
